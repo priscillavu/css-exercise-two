@@ -3,8 +3,10 @@
 }
 
 body {
-  background-color: lightblue;
+  background-color: pink;
   color: #0000FF;
+  font-size: 16px;
+  line-height: 1.5px;
 }
 
 nav {
@@ -53,4 +55,24 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+.story-text p{
+  line-height: 28px;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #32FF2B;
 }
